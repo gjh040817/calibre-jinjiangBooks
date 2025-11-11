@@ -1,4 +1,3 @@
-"""
 Calibre晋江文学城元数据插件 ( Jinjiang Books Plugin)
 
 本插件用于 Calibre 电子书管理软件，提供从晋江文学城网站获取书籍元数据的功能。
